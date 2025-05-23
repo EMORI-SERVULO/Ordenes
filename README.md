@@ -3,7 +3,9 @@ FRONTEND
 BACKEND
 imagenes optenidas del proyecto.
 
-[Screenshot_101](https://github.com/user-attachments/assets/e941163c-1314-4d51-b767-f9867cf19cb0)
+front:
+![Screenshot_101](https://github.com/user-attachments/assets/1d84b8a1-b36e-4853-81ac-9a0f1c475ba6)
+
 
 ![Screenshot_99](https://github.com/user-attachments/assets/d4868e1e-9392-4125-99ce-1bc6186bc045)
 
@@ -28,5 +30,9 @@ npm run start:dev
 FRONT:
 npm init// instalacion de dependencias
 npm run dev //levantar entorno
+
+si se usa docker
+instalar docker compose
+docker compose up --build
 
 
